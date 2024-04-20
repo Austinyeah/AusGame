@@ -1,0 +1,14 @@
+/Users/austin/Desktop/Coursework/AusGame/AusGame/bin/Debug/net8.0/AusGame
+/Users/austin/Desktop/Coursework/AusGame/AusGame/bin/Debug/net8.0/AusGame.deps.json
+/Users/austin/Desktop/Coursework/AusGame/AusGame/bin/Debug/net8.0/AusGame.runtimeconfig.json
+/Users/austin/Desktop/Coursework/AusGame/AusGame/bin/Debug/net8.0/AusGame.dll
+/Users/austin/Desktop/Coursework/AusGame/AusGame/bin/Debug/net8.0/AusGame.pdb
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.AssemblyInfoInputs.cache
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.AssemblyInfo.cs
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.dll
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/refint/AusGame.dll
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.pdb
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/AusGame.genruntimeconfig.cache
+/Users/austin/Desktop/Coursework/AusGame/AusGame/obj/Debug/net8.0/ref/AusGame.dll
